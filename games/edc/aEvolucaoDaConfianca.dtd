@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT aEvolucaoDaConfianca (original, traducao, personagens, narrativa)>
+<!ELEMENT original (autor, data, livro)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT data (#PCDATA)>
+<!ELEMENT livro (titulo, autor, ano)>
+<!ELEMENT titulo (#PCDATA|negrito)*>
+<!ELEMENT ano (#PCDATA)>
+<!ELEMENT traducao (tradutor, data, instituicao, unidadeCurricular)>
+<!ELEMENT tradutor (#PCDATA)>
+<!ELEMENT instituicao (#PCDATA)>
+<!ELEMENT unidadeCurricular (#PCDATA)>
+<!ELEMENT personagens (personagem+)>
+<!ELEMENT personagem (#PCDATA|nome|estrategiaDeJogo)*>
+<!ATTLIST personagem
+    id CDATA #REQUIRED>
+<!ELEMENT nome (#PCDATA)>
+<!ELEMENT estrategiaDeJogo (#PCDATA)>
+<!ELEMENT narrativa (titulo, subtitulo, introducao, umJogo, jogoRepetido, umTorneio, torneiosRepetidos, aEvolucaoDaDesconfianca, cometimentoDeErrod, conclusao)>
+<!ELEMENT subtitulo (#PCDATA)>
+<!ELEMENT introducao (paragrafo+)>
+<!ELEMENT umJogo (paragrafo+)>
+<!ELEMENT jogoRepetido (paragrafo+)>
+<!ELEMENT umTorneio (paragrafo+)>
+<!ELEMENT torneiosRepetidos (paragrafo+)>
+<!ELEMENT aEvolucaoDaDesconfianca (paragrafo+)>
+<!ELEMENT cometimentoDeErrod (paragrafo|item)*>
+<!ELEMENT conclusao (paragrafo+)>
+<!ELEMENT paragrafo (#PCDATA|titulo|negrito|italico|rasurado|item|citacao|personagem)*>
+<!ELEMENT negrito (#PCDATA|personagem)*>
+<!ELEMENT italico (#PCDATA|personagem)*>
+<!ELEMENT rasurado (#PCDATA)>
+<!ELEMENT item (#PCDATA|negrito|italico|personagem)*>
+<!ELEMENT citacao (#PCDATA|italico)*>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE aEvolucaoDaConfianca SYSTEM "aEvolucaoDaConfianca.dtd">
+
+<aEvolucaoDaConfianca>
+    <original>
+        <autor>Nicky Case</autor>
+        <data>julho de 2017</data>
+        <livro>
+            <titulo>"A Evolução da Coopereação"</titulo>
+            <autor>Robert Axelrod</autor>
+            <ano>1984</ano>
+        </livro>
+    </original>
+    <traducao>
+        <tradutor>Luís Costa</tradutor>
+        <data>maio de 2021</data>
+        <instituicao>Universidade do Minho</instituicao>
+        <unidadeCurricular>Informática Aplicada (LAD)</unidadeCurricular>
+    </traducao>
+    <personagens>
+        <personagem id="1">
+            <nome>Copião</nome>
+            <estrategiaDeJogo>Começa com Cooperar. Em seguida, simplesmente repete o que quer que TU tenhas feito na última ronda.</estrategiaDeJogo>
+        </personagem>
+        <personagem id="2">
+            <nome>Traidor</nome>
+            <estrategiaDeJogo>Trai sempre.</estrategiaDeJogo>
+        </personagem>
+        <personagem id="3">
+            <nome>Cooperador</nome>
+            <estrategiaDeJogo>Coopera sempre.</estrategiaDeJogo>
+        </personagem>
+        <personagem id="4">
+            <nome>Rancoroso</nome>
+            <estrategiaDeJogo>Começa com Cooperar, e continua a cooperar até tu traíres a confiança dele uma vez que seja. Se tal tiver acontecido, joga sempre Trair.</estrategiaDeJogo>
+        </personagem>
+        <personagem id="5">
+            <nome>Detetive</nome>
+            <estrategiaDeJogo>Começa com: Cooperar, Trair, Cooperar, Cooperar. Depois, se tu retaliares alguma vez com uma Traição, ele joga como o Copião. Caso contrário, joga como o Traidor.</estrategiaDeJogo>
+        </personagem>
+        <personagem id="6">
+            <nome>Copiinho</nome>
+            <estrategiaDeJogo>Começa com Cooperar. Só retalia com uma Traição se tu tiveres traído a confiança dele DUAS VEZES seguidas.</estrategiaDeJogo>
+        </personagem>
+        <personagem id="7">
+            <nome>Simplório</nome>
+            <estrategiaDeJogo>Começa com Cooperar. Depois, se tu cooperaste na última ronda, ele repete a sua última jogada (mesmo que tenha sido um acidente). Mas se tu o traíste na última ronda, ele altera a sua última jogada (mesmo que tenha sido um acidente).</estrategiaDeJogo>
+        </personagem>
+        <personagem id="8">
+            <nome>Aleatório</nome>
+            <estrategiaDeJogo>Trai ou coopera aleatoriamente com 50/50 de chance.</estrategiaDeJogo>
+        </personagem>
+    </personagens>
+    <narrativa>
+        <titulo>A Evolução da Confiança</titulo>
+        <subtitulo>um guia interativo para a teoria dos jogos do porquê e como confiamos uns nos outros</subtitulo>
+        <introducao>
+            <paragrafo>Durante a Primeira Guerra Mundial, a paz eclodiu.</paragrafo>
+            <paragrafo>Era o Natal de 1914 na Frente Ocidental.
+            Apesar de ordens claras para <italico>não</italico> ficar à vontade com o inimigo, soldados ingleses e alemães deixaram as suas trincheiras, atravessaram a Terra de Ninguém, e reuniram-se para enterrar os seus mortos, trocar presentes e jogar uns jogos.</paragrafo>
+            <paragrafo>Entretanto: é 2017, o Ocidente está em paz há décadas, e
+            uau, somos uns <italico>zeros à esquerda</italico> no que toca a confiança. Pesquisas mostram que, nos últimos quarenta anos, cada vez menos pessoas dizem que confiam umas nas outras. Eis então o nosso enigma:</paragrafo>
+            <paragrafo><negrito>Porque é que, mesmo em tempos de paz, amigos se tornam inimigos? E porque é que, mesmo em tempos de guerra, inimigos se tornam amigos?</negrito></paragrafo>
+            <paragrafo>Penso que a <negrito>teoria dos jogos</negrito> consegue ajudar a explicar a nossa epidemia de desconfiança – e como a podemos consertar! Vamos jogar um jogo.</paragrafo>
+        </introducao>
+        <umJogo>
+            <paragrafo><titulo><negrito>O Jogo da Confiança</negrito></titulo>Tens uma escolha a fazer. À tua frente está uma máquina: se inserires uma moeda na máquina, o <italico>outro jogador</italico> recebe três moedas – e vice-versa. Vocês os dois podem escolher ou COOPERAR (inserir moeda), ou TRAIR (não inserir moeda).</paragrafo>
+            <paragrafo><negrito>Suponhamos que o outro jogador trai a tua confiança, e não insere nenhuma moeda.</negrito> O que é que tu deverias fazer?</paragrafo>
+            <paragrafo>Se tu cooperares e ele te trair, tu perdes uma moeda e ele ganha três. (pontuação: -1 vs +3) No entanto, se vocês os dois traírem a confiança do outro, nenhum de vocês ganha nada nem perde nada. (pontuação: 0 vs 0) <negrito>Ou seja: deves TRAIR.</negrito></paragrafo>
+            <paragrafo><negrito>Mas suponhamos que o outro jogador coopera, e insere uma moeda.</negrito> O que é que tu deverias fazer desta vez?</paragrafo>
+            <paragrafo>Porque se vocês os dois cooperarem, ambos abdicam de uma moeda para ganhar três. (pontuação: +2 vs +2) Mas se tu o traíres e ele cooperar contigo, tu ganhas três moedas pelo preço de uma. (pontuação: +3 vs -1) <negrito>Ou seja: ainda "deves" TRAIR.</negrito></paragrafo>
+            <paragrafo>E é <italico>esse</italico> o nosso dilema. Confiar é bom, mas pode fazer com que os outros se aproveitem de ti -- ou que disparem contra ti enquanto sais desarmado de uma trincheira. Às vezes, a desconfiança é racional! Vamos jogar este jogo mais do que uma vez.</paragrafo>
+        </umJogo>
+        <jogoRepetido>
+            <paragrafo><negrito>Agora, vamos jogar a sério.</negrito> Vais jogar contra 5 adversários diferentes, cada um com a sua própria "estratégia" de jogo. Contra cada adversário, vais jogar um certo número de rondas, que pode variar entre 3 e 7. (Não vais saber com antecedência quando é a última ronda) Será que podes confiar neles? Ou melhor... será que eles podem confiar em <italico>ti?</italico></paragrafo>
+            <paragrafo>As personagens:
+                <item><negrito><personagem id="1">Copião</personagem>:</negrito> Olá! Eu começo com Cooperar, e posteriormente, apenas copio o que quer que tu tenhas jogado na última ronda. Miau</item>
+                <item><negrito><personagem id="2">Traidor</personagem>:</negrito> <italico>o forte comerá o fraco</italico></item>
+                <item><negrito><personagem id="3">Cooperador</personagem>:</negrito> 'Bora ser melhores amigos! &lt;3</item>
+                <item><negrito><personagem id="4">Rancoroso</personagem>:</negrito> Olha aqui, parceiro. Eu começo a cooperar, e continuo a cooperar, mas se tu me traíres uma vez que seja, eu vou-te trair até ao último dos teus dias.</item>
+                <item><negrito><personagem id="5">Detetive</personagem>:</negrito> Primeiro, eu analiso-o. Começo a Cooperar consigo, Traio-o, Coopero, Coopero. Se me trair de volta, passarei a agir como o <personagem id="1">Copião</personagem>. Se nunca me trair de volta, passarei a agir como o <personagem id="2">Traidor</personagem>, para explorá-lo. Elementar, meu caro Watson.</item></paragrafo>
+        </jogoRepetido>
+        <umTorneio>
+            <paragrafo>É hora do torneio! Cada personagem vai agora jogar contra cada uma das outras personagens: o que perfaz 10 partidas de pares, e 10 rondas por partida.</paragrafo>
+            <paragrafo>Quem é que achas que terá a maior pontuação <italico>total?</italico></paragrafo>
+            <paragrafo>Oh, já agora... É possível que estejas cético quanto àquela história da Trégua de Natal sobre as trincheiras da Primeira Guerra Mundial. De certeza que foi só um acaso... certo?</paragrafo>
+            <paragrafo>Sim, a trégua foi dramática, mas não foi <italico>nem única, nem invulgar</italico>.</paragrafo>
+            <paragrafo>Nem <italico>todas</italico> as trincheiras aderiram à paz, mas até que ela foi bem difundida. Várias linhas de frente tiveram essa mesma ideia independentemente, e repito: <italico>apesar</italico> das ordens específicas e bem claras para não o fazer.</paragrafo>
+            <paragrafo>E de facto, mesmo <italico>antes</italico> do Natal, várias linhas de frente já <italico>tinham</italico> estabelecido uma paz secreta não-oficial.</paragrafo>
+            <paragrafo>Chamaram-lhe: <negrito>o sistema "vive e deixa viver"</negrito>. Basicamente, tu não disparas contra mim, eu não disparo contra ti. E este sistema funcionou, em muitos lugares!</paragrafo>
+            <paragrafo>Pode ser que aindas estejas cético. A maioria dos soldados não forma paz espontaneamente com o inimigo. O que é que há de tão especial na guerra de <italico>trincheiras</italico>?</paragrafo>
+            <paragrafo>Bem, eis o que é único sobre as trincheiras: ao contrário de quase todas as outras formas de guerra, os soldados enfrentam os <italico>mesmos soldados</italico> todos os dias.</paragrafo>
+            <paragrafo><negrito>É um jogo repetido.</negrito> E isso faz <italico>toda</italico> a diferença.</paragrafo>
+            <paragrafo>Enfim. E o vencedor é... o <negrito><personagem id="1">Copião</personagem>!</negrito></paragrafo>
+            <paragrafo>O <personagem id="1">Copião</personagem> tem muitos nomes. A Regra de Ouro, altruísmo recíproco, olho por olho, ou... <negrito>vive e deixa viver.</negrito> É por isso que a "paz" pôde emergir nas trincheiras da Primeira Guerra Mundial: quando se é obrigado a jogar o mesmo jogo com as <italico>mesmas pessoas</italico> (não só o mesmo "inimigo" genérico) uma e outra vez -- O <personagem id="1">Copião</personagem> não ganha só a batalha, ele vence a guerra.</paragrafo>
+            <paragrafo>Mas se as coisas mudam bastante quando se joga várias rondas do mesmo jogo, vamos ver o que acontece se jogarmos <italico>vários torneios.</italico></paragrafo>
+        </umTorneio>
+        <torneiosRepetidos>
+            <paragrafo>Agora, deixemos a nossa população de jogadores <italico>evoluir com o passar do tempo</italico>. É uma dança de 3 passos:
+                <item><negrito>1. Abre um torneio:</negrito> fá-los jogarem uns contra os outros, e soma os pontos.</item>
+                <item><negrito>2. Elimina os perdedores:</negrito> livra-te dos 5 piores jogadores. (se houver um empate, escolhe aleatoriamente entre eles)</item>
+                <item><negrito>3. Reproduz os vencedores:</negrito> clona os 5 melhores jogadores. (se houver um empate, escolhe aleatoriamente entre eles)</item></paragrafo>
+                <paragrafo>...e repete, pelo tempo que quiseres. Nota: não é preciso esperar que as pessoas literalmente morram e se reproduzam para que a cultura evolua -- a única coisa que é necessária é que os comportamentos "malsucedidos" vão embora, e que os comportamentos "bem-sucedidos" sejam imitados. Vamos agora ver tudo isto em ação.</paragrafo>
+                <paragrafo>Suponhamos que começamos com a seguinte população de jogadores: 15 <personagem id="3">Cooperadores</personagem>, 5 <personagem id="2">Traidores</personagem>, e 5 <personagem id="1">Copiões</personagem>. (Vamos ignorar o <personagem id="4">Rancoroso</personagem> e o <personagem id="5">Detetive</personagem> por agora)</paragrafo>
+                <paragrafo>Vamos fazer a dança do torneio-eliminação-reprodução uma dúzia de vezes ou mais. Vamos fazer outra aposta! Quem é que achas que vai ganhar o <italico>primeiro</italico> torneio?</paragrafo>
+                <paragrafo>Infelizmente, os <personagem id="3">Cooperadores</personagem> foram devorados pelos <personagem id="2">Traidores</personagem>, que aumentaram agora a sua população em 5.</paragrafo>
+                <paragrafo>Os <personagem id="2">Traidores</personagem> ainda se estão a reproduzir, às custas dos <personagem id="3">Cooperadores</personagem>...</paragrafo>
+                <paragrafo>E agora, todos os <personagem id="3">Cooperadores</personagem> estão mortos. Mas, espera lá...</paragrafo>
+                <paragrafo>Assim é que é: os <personagem id="2">Traidores</personagem> tornaram-se vítimas do seu próprio sucesso! Eles exploraram os ingénuos <personagem id="3">Cooperadores</personagem>, mas assim que acabaram com o stock deles, tiveram de enfrentar os <personagem id="1">Copiões</personagem>: que <italico>são</italico> simpáticos, mas não são ingénuos.</paragrafo>
+                <paragrafo>Simplesmente copiando as jogadas do outro jogador, os <personagem id="1">Copiões</personagem> conseguem jogar bem uns com os outros, enquanto que os <personagem id="2">Traidores</personagem> se traem a si mesmos! Para além disso, tal também significa que os <personagem id="1">Copiões</personagem> conseguem dar aos <personagem id="2">Traidores</personagem> um gostinho do próprio veneno.</paragrafo>
+                <paragrafo>E então, consequentemente... Os <personagem id="1">Copiões</personagem> herdam a terra.</paragrafo>
+                <paragrafo>Os simpáticos, mas ingénuos, <personagem id="3">Cooperadores</personagem> estavam condenados desde o início -- no final, uma forma <italico>inteligente</italico> de simpatia prevaleceu, e os <personagem id="2">Traidores</personagem> foram esmagados. Os <personagem id="2">Traidores</personagem> podem ter ganhado a curto prazo, mas a sua exploração levou-os à ruína.</paragrafo>
+                <paragrafo>Isto faz-me lembrar de uma frase:
+                    <citacao><italico>"Somos punidos pelos nossos pecados, e não para eles."</italico> ~ Elbert Hubbard</citacao></paragrafo>
+                <paragrafo>(oh, e já agora... este resultado é semelhante mesmo se colocarmos o <personagem id="4">Rancoroso</personagem> e o <personagem id="5">Detetive</personagem> de volta)</paragrafo>
+                <paragrafo>Nota: às vezes, alguns <personagem id="4">Rancorosos</personagem> permanecem no ciclo evolutivo, porque quando todos os jogadores exceto o <personagem id="4">Rancoroso</personagem> e o <personagem id="1">Copião</personagem> são eliminados, os dois empatam.)</paragrafo>
+                <paragrafo>Então, parece que a matemática da teoria dos jogos nos está a dizer alguma coisa: a filosofia daquele <personagem id="1">Copião</personagem>, "Faz aos outros aquilo que gostarias que te fizessem a ti", pode não ser só uma verdade <italico>moral</italico>, mas também uma verdade <italico>matemática</italico>. No entanto... há um problema.</paragrafo>
+                <paragrafo>Olha em volta. O mundo está repleto de completos idiotas.</paragrafo>
+                <paragrafo>Se o <personagem id="1">Copião</personagem> é a estratégia (neste jogo repetido de confiança) que é tão poderosa -- que até mesmo soldados nas trincheiras da Primeira Guerra Mundial "desenvolveram" independentemente uma estratégia semelhante, chamada "vive e deixa viver" -- porque é que, então, há tantas pessoas que não confiam nos outros e que nem nas quais devemos confiar? O que é que está a causar a nossa epidemia de desconfiança?</paragrafo>
+                <paragrafo>Há uma pista naquela própria frase. "<italico>Neste</italico> jogo repetido de confiança." Até agora só falamos da mudança nos jogadores: e que tal <italico>uma mudança no jogo?</italico> O que é que poderia levar à... <italico>evolução da desconfiança?</italico></paragrafo>
+        </torneiosRepetidos>
+        <aEvolucaoDaDesconfianca>
+            <paragrafo>Antes que vá tudo para o caraças, vamos começar com alguma coisa de jeito! Aqui está um mundo inteiramente repleto de <personagem id="3">Cooperadores</personagem>, exceto por um <personagem id="2">Traidor</personagem> e um <personagem id="1">Copião</personagem>.</paragrafo>
+            <paragrafo>Como já sabes, o <personagem id="1">Copião</personagem> ganha facilmente a longo prazo, conforme as nossas regras atuais!</paragrafo>
+            <paragrafo>Mas isso é conforme as nossas regras <italico>atuais</italico>, que dizem que os jogadores jogam uns contra os outros <italico>10</italico> rondas por partida. Será que o <personagem id="1">Copião</personagem> ainda ganha se forem 7 rondas? 5 rondas? 3? 2? 1?</paragrafo>
+            <paragrafo>Como viste, se não jogares rondas suficientes, (aqui: 5 ou menos) o <personagem id="2">Traidor</personagem> domina.</paragrafo>
+            <paragrafo>Em 1985, quando perguntaram a americanos quantos amigos próximos é que tinham, a resposta mais comum foi "três". Em 2004, a resposta mais comum foi <italico>"zero"</italico>. Atualmente temos menos amigos de diferentes classes, raças, e linhas de pensamento económicas e políticas, porque temos menos amigos -- <italico>ponto final</italico>. E como acabaste de descobrir por ti próprio, <negrito>quanto menos "interações repetidas" houver, mais a desconfiança propagar-se-á.</negrito></paragrafo>
+            <paragrafo>(não, os mass media não contam: devem ser interações mútuas entre indivíduos específicos.)</paragrafo>
+            <paragrafo>e oh, fica pior...</paragrafo>
+            <paragrafo>Há uma <italico>outra</italico> maneira de gerar desconfiança. Aqui estão as "recompensas" para o jogo da confiança:</paragrafo>
+            <paragrafo>Com as recompensas normais, o <personagem id="1">Copião</personagem> ganha. Mas agora, <negrito>altera a recompensa de "ambos cooperam" de +2 para +1</negrito>. Apesar de +1 ainda ser <italico>maior</italico> do que a punição por ambos traírem (0)... o que é que acontece?</paragrafo>
+            <paragrafo>Acontece a mesma coisa: com uma recompensa onde ambos saem a ganhar mais baixa, o <personagem id="2">Traidor</personagem> assume a liderança. A teoria dos jogos tem duas ideias poderosas sobre isto:
+            <item><negrito>"Jogo de soma zero".</negrito> Esta é a triste crença comum de que um ganho para "nós" <italico>deve</italico> resultar numa perda para "eles", e vice-versa.</item>
+            <item><negrito>"Jogo de soma diferente de zero".</negrito> É quando as pessoas fazem o grande esforço de criar uma solução onde ambas as partes saem a ganhar! (ou pelo menos, evitar uma situação onde ambas saem a perder) Sem o jogo de soma diferente de zero, <italico>a confiança não consegue evoluir</italico>.</item></paragrafo>
+            <paragrafo>Por falar nisso, vamos agora analisar a nossa terceira e última entrave à evolução da confiança... <rasurado>Errod</rasurado> Erros.</paragrafo>
+        </aEvolucaoDaDesconfianca>
+        <cometimentoDeErrod>
+            <paragrafo>Por mais fixe que o <personagem id="1">Copião</personagem> seja, ele tem uma fraqueza enorme e fatal que eu ainda não mencionei. Para compreender o problema, digamos que dois <personagem id="1">Copiões</personagem> estejam a jogar um contra o outro:</paragrafo>
+            <paragrafo>Sendo jogadores "simpáticos", as primeiras jogadas dos dois serão Cooperar.</paragrafo>
+            <paragrafo>E normalmente, eles retribuiriam a simpatia um do outro e cantariam Kumbaya até ao fim dos tempos.</paragrafo>
+            <paragrafo>Mas e se, enquanto tentavam retribuir bondade...</paragrafo>
+            <paragrafo><negrito>Oh não!</negrito> Erros, falhas de comunicação, más interpretações -- acidentes acontecem o tempo todo na vida real.</paragrafo>
+            <paragrafo>Mas se a outra pessoa não <italico>achar</italico> que foi um acidente...</paragrafo>
+            <paragrafo><negrito>Oh não vezes dois!</negrito> O outro jogador, sendo um <personagem id="1">Copião</personagem>, <italico>teve</italico> que retaliar...</paragrafo>
+            <paragrafo>...e tu, sendo também um <personagem id="1">Copião</personagem>, <italico>também</italico> terás que retaliar...</paragrafo>
+            <paragrafo>Assim, tal como os Hatfields e os McCoys, estes dois <personagem id="1">Copiões</personagem> vão entrar num ciclo infinito de vingança... que começou por causa de um único erro, há muito tempo atrás.</paragrafo>
+            <paragrafo>Trágico. Mas e agora, haverá <italico>outros</italico> tipos de jogadores que conseguem... lidar com erros?</paragrafo>
+            <paragrafo>Vamos conhecer umas caras novas! (ou, chapéus novos, seja como for)</paragrafo>
+            <item><negrito><personagem id="6">Copiinho</personagem>:</negrito> Olá! Eu sou como o <personagem id="1">Copião</personagem>, só que eu só Traio de volta depois de ter sido Traído duas vezes seguidas. Afinal, a primeira pode ter sido um erro! Purrrrr</item>
+            <item><negrito>SIMPLÓRIO:</negrito> ola eu tentar começar a cooperar. se tu cooperar de volta, eu fazer o <italico>mesmo</italico> que a minha ultima jogada, mesmo que ter sido um erro. se tu trair de volta, eu fazer o <italico>oposto</italico> da minha ultima jogada, mesmo que ter sido um erro.</item>
+            <item><negrito><personagem id="8">Aleatório</personagem>:</negrito><italico>Robô macaco! Tacos ninja de pizza! lol sou tão aleatório</italico> (Trai ou Coopera aleatoriamente com 50/50 de chance)</item>
+            <paragrafo>Ok, vamos lá ver o quão bem estes tipos se saem quando... jogam num torneio.</paragrafo>
+            <paragrafo>Comecemos com uma dúzia de <personagem id="3">Cooperadores</personagem>, contra o nosso velho vencedor, o justo <personagem id="1">Copião</personagem>, e as nossas três novas personagens: o misericordioso <personagem id="6">Copiinho</personagem>, o aborrecido <personagem id="7">Simplório</personagem>, e o totó do <personagem id="8">Aleatório</personagem>.</paragrafo>
+            <paragrafo>Em cada ronda de uma partida, os jogadores têm uma pequena chance de cometer um erro. (digamos, 5%) Quem é que achas que vai levar a melhor?</paragrafo>
+            <paragrafo>Ganhou o <personagem id="7">Simplório</personagem>! Tal deve-se ao facto de que o <personagem id="7">Simplório</personagem> é, na verdade, capaz de explorar o <personagem id="3">Cooperador</personagem>. Ambos começam a cooperar, mas se o <personagem id="7">Simplório</personagem> cometer um erro e trair o <personagem id="3">Cooperador</personagem>, uma vez que o segundo nunca retalia, <italico>o primeiro vai continuar a traí-lo</italico>.</paragrafo>
+            <paragrafo>Tentemos agora a mesma coisa que antes, só que em vez de metade de <personagem id="3">Cooperadores</personagem>, será metade de <personagem id="2">Traidores</personagem>. É um ambiente bem <italico>menos</italico> perdoador, bem <italico>mais</italico> hostil.</paragrafo>
+            <paragrafo>Quem é que achas que vai ganhar desta vez?</paragrafo>
+            <paragrafo>É o <personagem id="6">Copiinho</personagem> quem ganha desta vez! É surpreendente que com uma população inicial ainda <italico>mais maldosa</italico>, o <personagem id="6">Copiinho</personagem>, uma versão <italico>mais tolerante</italico> do <personagem id="1">Copião</personagem>, foi o mais bem sucedido! (nota: o <personagem id="6">Copiinho</personagem> perdoa tanto que nem <italico>arrasa</italico> com o <personagem id="1">Copião</personagem> por completo. partilha o espaço)</paragrafo>
+            <paragrafo>Neste caso, um pouco de "falhas de comunicação" (5% de chance de erro a cada ronda) pode levar a mais <italico>perdão</italico>. Mas será que isto é verdade para <italico>todos</italico> os níveis... de falhas de comunicação?</paragrafo>
+            <paragrafo>A 5%, o <personagem id="6">Copiinho</personagem> ganha. O que é que acontece a 0%? Ou 20%? Ou 50%? (só vai até 50%, porque a essa altura, todas as jogadas são um 50/50)</paragrafo>
+            <paragrafo>Os resultados revelam-se algo deste tipo:</paragrafo>
+            <paragrafo><negrito>A 0%,</negrito> o justo <personagem id="1">Copião</personagem> ganha! <negrito>A 1% até 9%,</negrito> o misericordioso <personagem id="6">Copiinho</personagem> ganha! <negrito>A 10% até 49%:</negrito> o injusto e impiedoso <personagem id="2">Traidor</personagem> ganha. <negrito>A 50%,</negrito> <italico>ninguém nunca ganha</italico>.</paragrafo>
+            <paragrafo>É por isto que "faltas de comunicação" são entraves à confiança tão interessantes: um <italico>pouco</italico> dela leva ao perdão, mas <italico>demasiado</italico> leva à desconfiança generalizada! Penso que a nossa tecnologia moderna dos média, por muito que nos tenha ajudado a aumentar a comunicação... aumentou muito mais a nossa <italico>falta de comunicação</italico>.</paragrafo>
+        </cometimentoDeErrod>
+        <conclusao>
+            <paragrafo>A teoria dos jogos mostrou-nos as três coisas de que precisamos para a evolução da confiança:
+            <item>1. Repetir interações: A confiança mantém uma relação em andamento, mas é necessário o conhecimento de possíveis futuras interações repetidas <italico>antes</italico> de a confiança poder evoluir.</item>
+            <item>2. Possíveis situações onde ambos saem a ganhar: Deves jogar um jogo de soma diferente de zero, um jogo onde é pelo menos possível que <italico>ambos</italico> os jogadores possam estar numa situação melhor -- esta é uma situação onde ambos saem a ganhar.</item>
+            <item>3. Baixa falha de comunicação: Se o nível de falhas de comunicação for <italico>demasiado</italico> alto, a confiança é quebrada. Mas quando há um pouquinho de falhas de comunicação, vale a pena ser <italico>mais</italico> perdoador.</item></paragrafo>
+            <paragrafo>Claro, a confiança no mundo real é afetada por muito mais do que isto. Há reputação, valores partilhados, contratos, marcadores culturais, blá blá blá. E não esqueçamos... a <italico>maior</italico> lição.</paragrafo>
+            <paragrafo>Se há algo a retirar de <italico>toda</italico> a teoria dos jogos, é o seguinte:</paragrafo>
+            <paragrafo><negrito>O que o jogo é, define o que os jogadores fazem.</negrito></paragrafo>
+            <paragrafo>O nosso problema atualmente não é só o facto de que as pessoas estão a perder a confiança, é o facto de que o nosso <italico>ambiente</italico> age contra a evolução da confiança.</paragrafo>
+            <paragrafo>Pode parecer cínico ou ingénuo -- que sejamos "meros" produtos do nosso ambiente -- mas como nos lembra a teoria dos jogos, nós <italico>somos</italico> o ambiente uns dos outros. <negrito>A curto prazo, o jogo define os jogadores. Mas a longo prazo, somos nós os jogadores que definimos o jogo.</negrito></paragrafo>
+            <paragrafo>Por isso, faz o que <italico>tu</italico> puderes, para criar as condições necessárias para evoluir a confiança. Constrói relações. Encontra situações onde toda a gente sai a ganhar. Comunica com clareza. Talvez nessa altura, nós possamos parar de disparar uns contra os outros, sair das nossas próprias trincheiras, atravessar a Terra de Ninguém para ficarmos juntos... e todos aprendem... a viver e deixar viver.</paragrafo>
+        </conclusao>
+    </narrativa>
+</aEvolucaoDaConfianca>

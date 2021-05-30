@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT pirilampos (original, traducao, narrativa)>
+<!ELEMENT original (autor, ano, livro)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT ano (#PCDATA)>
+<!ELEMENT livro (titulo, autor, link)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT link (#PCDATA)>
+<!ELEMENT traducao (tradutora, data, instituicao, unidadeCurricular)>
+<!ELEMENT tradutora (#PCDATA)>
+<!ELEMENT instituicao (#PCDATA)>
+<!ELEMENT unidadeCurricular (#PCDATA)>
+<!ELEMENT narrativa (titulo|p)*>
+<!ELEMENT p (#PCDATA|italico)*>
+<!ELEMENT italico (#PCDATA)>

@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+    <header
+            creationtool="Matecat-Cattool"
+            creationtoolversion="2.17.24b"
+	    o-tmf="Matecat"
+            creationid="Matecat"
+            datatype="plaintext"
+            segtype="sentence"
+            adminlang="en-US"
+            srclang="en-US"/>
+    <body>
+    <tu tuid="1914149976" creationdate="20210520T170330Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914149976</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>Fireflies</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>Pirilampos</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914149977" creationdate="20210520T170342Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914149977</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>“Fireflies”</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>"Vagalumes"</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914149978" creationdate="20210520T170701Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914149978</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;Like Christmas lights gently floating in midair,&#10;fireflies always add a little bit of magic to the forests they live in.&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;Como luzes de Natal a flutuar suavemente no ar,&#10;pirilampos acrescentam sempre um pouco de magia às florestas em que vivem.&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914149980" creationdate="20210520T170702Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914149980</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;&#09;&#09;&lt;g id="1"&gt;CLICK &amp; DRAG&lt;/g&gt;&#10;&#09;&#09;&lt;x id="2"/&gt;&#10;&#09;&#09;to create some&#10;&#09;&#09;&lt;x id="3"/&gt;&#10;&#09;&#09;firefly chaos →&#10;&#09;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;		&lt;g id="1"&gt;CLICA E ARRASTA&lt;/g&gt;&#10;		&lt;x id="2"/&gt;&#10;		para criar algum&#10;		&lt;x id="3"/&gt;&#10;		caos de pirilampos →&#10;	</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914149981" creationdate="20210520T170716Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914149981</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;But some firefly species add even &lt;g id="1"&gt;more&lt;/g&gt; magic.&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;Mas algumas espécies de pirilampos acrescentam ainda &lt;g id="1"&gt;mais&lt;/g&gt; magia.&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914149982" creationdate="20210520T170746Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914149982</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>In Southeast Asia, if you go out to the riverbank deep in the night,&#10;you'll be treated to this stunning lightshow – courtesy of the Thailand firefly:&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>No sudeste da Ásia, se fores até à margem do rio no meio da noite,&#10;serás presenteado com este impressionante show de luzes - cortesia do pirilampo da Tailândia:&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914149984" creationdate="20210520T170947Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914149984</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;A whole mangrove forest, lighting up all at once,&#10;plunging into darkness, then lighting up all again – in near-perfect synchrony.&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;Um manguezal inteiro a iluminar-se de uma vez só,&#10;mergulhando na escuridão, e então iluminando tudo outra vez - numa sincronia quase perfeita.&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914149985" creationdate="20210520T171011Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914149985</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>How do thousands of fireflies coordinate with each other?&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>Como é que milhares de pirilampos se coordenam uns com os outros?&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914149986" creationdate="20210520T171025Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914149986</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>Who is the conductor of this silent symphony?&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>Quem é o maestro desta sinfonia silenciosa?&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914149987" creationdate="20210520T171047Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914149987</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;This was a mystery for nearly a century, and in 1992,&#10;a team of US scientists set out to solve it.&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;Isto foi um mistério por quase um século e, em 1992,&#10;uma equipa de cientistas americanos decidiu resolvê-lo.&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914149988" creationdate="20210520T171222Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914149988</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>Sadly, but not surprisingly, the press mocked them –&#10;&lt;bx id="1"/&gt;“Govt. </seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>Infelizmente, mas não surpreendentemente, a imprensa gozou com eles —&#10;&lt;bx id="1"/&gt;“O Governo </seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914149989" creationdate="20210520T171338Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914149989</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>Blows Your Tax $$ to Study Fireflies in Borneo:&#10;Not a Bright Idea!”&lt;ex id="_1"/&gt; </seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>queima os nossos impostos €€ para estudar pirilampos em Bornéu:&#10;Não é uma ideia brilhante!”&lt;ex id="_1"/&gt; </seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914149990" creationdate="20210520T171401Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914149990</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>read one tabloid.&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>disse uma revista.&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914149991" creationdate="20210520T171414Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914149991</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>Undeterred, the scientists pressed on, cameras and calculators in hand.&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>Implacáveis, os cientistas seguiram em frente, câmaras e calculadoras nas mãos.&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914149992" creationdate="20210520T171618Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914149992</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;So, how &lt;g id="1"&gt;do&lt;/g&gt; thousands of fireflies pick a leader to follow,&#10;a maestro to keep their flashing in time?&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;Então, &lt;g id="1"&gt;como é que&lt;/g&gt; milhares de pirilampos escolhem um líder para seguir,&#10;um maestro para manter os seus sinais luminosos em sincronia?&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914149993" creationdate="20210520T171623Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914149993</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>The answer, the scientists found, is simple:&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>A resposta, os cientistas descobriram, é simples:&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914149994" creationdate="20210520T171633Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914149994</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;They don't.&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;Eles não escolhem.&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914149995" creationdate="20210520T171744Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914149995</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;Each firefly has its &lt;g id="1"&gt;own&lt;/g&gt; individual internal clock,&#10;and every time the clock “strikes twelve”, it flashes.&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;Cada pirilampo tem o seu &lt;g id="1"&gt;próprio&lt;/g&gt; relógio interno individual,&#10;e sempre que o relógio “bate as doze horas”, ele pisca.&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914149997" creationdate="20210520T171807Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914149997</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;And instead of synchronizing their clocks to a central leader,&#10;each firefly does the following:&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;E em vez de sincronizar os seus relógios com um líder central,&#10;cada pirilampo faz o seguinte:&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914149998" creationdate="20210520T172025Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914149998</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;Step 1: when you see a nearby firefly flash,&#10;nudge your clock a little bit forward.&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;Etapa 1: quando vê um sinal luminoso próximo de outro pirilampo,&#10;adianta um pouco o seu relógio.&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150000" creationdate="20210520T172037Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150000</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;Step 2: that's it.&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;Etapa 2: e é isso.&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150001" creationdate="20210520T172127Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150001</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;Can such a small, short-ranged interaction really cause an&#10;entire forest-ful of fireflies to flash in synchronous harmony?&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;Será que uma interação tão pequena e de curto alcance pode realmente fazer uma&#10;floresta inteira de pirilampos piscar numa harmonia sincrónica?&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150002" creationdate="20210520T172132Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150002</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>Only one way to find out...&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>Só há uma maneira de descobrir...&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150003" creationdate="20210520T172156Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150003</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;Wait. </seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;Espera. </seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150004" creationdate="20210520T172210Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150004</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>Watch carefully.&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>Vê com atenção.&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150005" creationdate="20210520T172221Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150005</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;What do you see?&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;O que é que vês?&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150006" creationdate="20210520T172234Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150006</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;At first, not much.&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;No início, não muito.&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150007" creationdate="20210520T172300Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150007</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>The fireflies still seem to be flashing without pattern.&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>Os pirilampos ainda parecem estar a piscar sem um padrão.&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150008" creationdate="20210520T172457Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150008</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;But after a while, you may notice small “patches” of fireflies firing together –&#10;but these individual “patches” are still out of sync.&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;Mas, depois de um tempo, vais notar pequenos grupos de pirilampos a piscarem juntos —&#10;mas esses grupos individuais ainda estão dessincronizados.&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150009" creationdate="20210520T172546Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150009</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;After a bit longer, you start seeing fireflies performing a “wave”,&#10;like excited fans in the stands during a baseball game.&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;Depois de um pouco mais de tempo, vais começar a ver pirilampos a fazer uma "onda",&#10;como fãs empolgados nas bancadas durante um jogo de beisebol.&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150010" creationdate="20210520T172701Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150010</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;Finally, all but a few fireflies are flashing together –&#10;and eventually, even these laggards join in the collective dance.&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;Finalmente, todos, exceto alguns pirilampos, piscam juntos —&#10;e, eventualmente, até mesmo os atrasados juntam-se à dança coletiva.&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150011" creationdate="20210520T172714Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150011</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;What's more amazing? </seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;Há algo mais incrível do que isso? </seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150012" creationdate="20210520T172739Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150012</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>If you disrupt these fireflies by causing some chaos...&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>Se interromperes estes pirilampos causando algum caos...&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150014" creationdate="20210520T172932Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150014</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;&#09;&#09;&lt;g id="1"&gt;CLICK &amp; DRAG&lt;/g&gt;&#10;&#09;&#09;&lt;x id="2"/&gt;&#10;&#09;&#09;to mess up these&#10;&#09;&#09;&lt;x id="3"/&gt;&#10;&#09;&#09;fireflies, again →&#10;&#09;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;		&lt;g id="1"&gt;CLICA E ARRASTA&lt;/g&gt;&#10;		&lt;x id="2"/&gt;&#10;		para confundir estes&#10;		&lt;x id="3"/&gt;&#10;		pirilampos, outra vez →&#10;	</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150015" creationdate="20210520T173035Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150015</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;...yes, it may cause them to divide for a moment, but slowly and surely,&#10;they shall collect themselves again, and flash as one.&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;... sim, isso pode fazer com que eles se dividam por um momento, mas lenta e certamente,&#10;eles recompor-se-ão e brilharão como um.&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150016" creationdate="20210520T173128Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150016</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;Here's a few more buttons &amp; sliders you can use,&#10;to play around with these virtual fireflies:&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;Aqui estão mais alguns botões e barras deslizantes que podes usar,&#10;para brincar com estes pirilampos virtuais:&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150017" creationdate="20210520T173155Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150017</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;And that's the secret behind our fireflies' magic trick:&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;E este é o segredo por trás do truque de magia dos nossos pirilampos:&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150019" creationdate="20210520T173350Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150019</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;&#09;&lt;g id="1"&gt;small-scale&lt;/g&gt;&lt;x id="2"/&gt;&lt;g id="3"&gt;interactions&lt;/g&gt;&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;	&lt;g id="1"&gt;interações em&lt;/g&gt;&lt;x id="2"/&gt;&lt;g id="3"&gt;pequena escala&lt;/g&gt;&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150020" creationdate="20210520T173351Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150020</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>→</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>→</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150021" creationdate="20210520T173444Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150021</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;&#09;&lt;g id="1"&gt;large-scale&lt;/g&gt;&lt;x id="2"/&gt;&lt;g id="3"&gt;organization&lt;/g&gt;&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;	&lt;g id="1"&gt;organização em&lt;/g&gt;&lt;x id="2"/&gt;&lt;g id="3"&gt;grande escala&lt;/g&gt;&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150022" creationdate="20210520T173643Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150022</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;As it turns out, fireflies aren't the only things that&#10;synchronize themselves from the bottom up.&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;Acontece que os pirilampos não são as únicas coisas que&#10;se sincronizam de baixo para cima.&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150023" creationdate="20210520T173711Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150023</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>Your neurons create brain waves.&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>Os teus neurónios criam ondas cerebrais.&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150024" creationdate="20210520T173915Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150024</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>Your heart's pacemaker cells fire in sync.&#10;&lt;bx id="1"/&gt;&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>As células do pacemaker do teu coração disparam em sincronia.&#10;&lt;bx id="1"/&gt;&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150025" creationdate="20210520T173941Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150025</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>Even a bunch of lifeless metronomes on a wobbly platform will start to march together.&lt;ex id="_1"/&gt;&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>Até mesmo um monte de metrónomos sem vida numa plataforma instável começarão a marchar juntos.&lt;ex id="_1"/&gt;&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150026" creationdate="20210520T174017Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150026</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>On top of all that, understanding self-synchrony has helped us build better&#10;lasers, computers, and communications technology!&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>Além de tudo isso, entender a auto-sincronia ajudou-nos a construir melhores&#10;lasers, computadores e tecnologia de comunicação!&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150027" creationdate="20210520T174035Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150027</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;And to think, the mathematics of self-synchronizing systems was discovered&#10;in part by a few scientists who just really loved fireflies.&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;E pensar que a matemática dos sistemas de auto-sincronização foi descoberta&#10;em parte por alguns cientistas que realmente amavam pirilampos.&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150028" creationdate="20210520T174121Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150028</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>Looks like calling their project &lt;g id="1"&gt;“Not a Bright Idea”&lt;/g&gt; was not a bright idea.&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>Parece que chamar o projeto deles de &lt;g id="1"&gt;“Não é uma Ideia Brilhante”&lt;/g&gt; não foi uma ideia brilhante.&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150030" creationdate="20210520T174158Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150030</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;You float along, softly, in silence,&#10;occasionally punctuating the darkness with a small dot of bright light.&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;Tu flutuas em conjunto, suavemente, em silêncio,&#10;ocasionalmente pontuando a escuridão com um pequeno ponto de luz brilhante.&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150031" creationdate="20210520T174212Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150031</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>By yourself, there's not much to see.&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>Sozinho, não há muito para ver.&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150032" creationdate="20210520T174305Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150032</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;But whenever you shine, you inspire those close to you to shine too,&#10;a little bit sooner than they otherwise would have.&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;Mas, sempre que brilhas, inspiras aqueles perto de ti a brilharem também,&#10;um pouco mais cedo do que eles brilhariam.&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150033" creationdate="20210520T174333Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150033</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>And those close to you, in turn, inspire those close to &lt;g id="1"&gt;them&lt;/g&gt;.&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>E aqueles perto de ti, por sua vez, inspiram aqueles perto &lt;g id="1"&gt;deles&lt;/g&gt;.&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150034" creationdate="20210520T174339Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150034</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;And so on, and so on.&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;E assim por diante.&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150035" creationdate="20210520T174344Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150035</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;First, a few small groups start flashing together.&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;Primeiro, alguns pequenos grupos começam a piscar juntos.&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150036" creationdate="20210520T174429Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150036</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>Then, a wave of light sweeps across the swarm.&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>Depois, uma onda de luz varre o enxame.&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150037" creationdate="20210520T174529Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150037</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>Finally, you're all dazzling together,&#10;a brilliant beacon, all in harmony, in tandem – in synchrony.&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>Finalmente, estão todos deslumbrantes juntos,&#10;um farol brilhante, todos em harmonia, em tandem — em sincronia.&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150038" creationdate="20210520T174543Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150038</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;What small-scale interaction will you make today, little firefly?&#10;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;Que interação em pequena escala farás hoje, pequeno pirilampo?&#10;</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150039" creationdate="20210520T175250Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150039</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;&#09;Inspired by Steven Strogatz's book,&lt;x id="1"/&gt;&#10;&#09;&lt;g id="2"&gt;&#10;&#09;SYNC: How Order Emerges From Chaos In the Universe, Nature, and Daily Life&#10;&#09;&lt;/g&gt;&#10;&#09;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;Inspirado no livro de Steven Strogatz,&lt;x id="1"/&gt;&#10;	&lt;g id="2"&gt;&#10;	SYNC: How Order Emerges From Chaos In the Universe, Nature, and Daily Life&#10;	&lt;/g&gt;&#10;	</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150040" creationdate="20210520T180113Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150040</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;&#09;Created by&#10;&#09;&lt;g id="1"&gt;Nicky Case&lt;/g&gt;,&#10;&#09;with the love &amp; support of my patrons&#10;&#09;&lt;g id="2"&gt;(see them all here)&lt;/g&gt;&#10;&#09;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;	Criado por&#10;	&lt;g id="1"&gt;Nicky Case&lt;/g&gt;,&#10;	com o amor e apoio dos meus patronos&#10;	&lt;g id="2"&gt;(veja todos aqui)&lt;/g&gt;&#10;	</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150041" creationdate="20210520T180130Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150041</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;&#09;“Fireflies” is open source, dedicated to the public domain.&#10;&#09;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;	“Pirilampos” é um código aberto, dedicado ao domínio público.&#10;	</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150042" creationdate="20210520T180156Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150042</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&lt;g id="1"&gt;(Get the code on Github!)&lt;/g&gt;&#10;&#09;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&lt;g id="1"&gt;(Obtém o código no Github!)&lt;/g&gt;&#10;	</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150043" creationdate="20210520T180315Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150043</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;&#09;&lt;g id="1"&gt;&#10;&#09;&#09;&lt;g id="2"&gt;support me on patreon &lt;3&lt;/g&gt;&#10;&#09;&lt;/g&gt;&#10;&#09;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;	&lt;g id="1"&gt;&#10;		&lt;g id="2"&gt;apoia-me no patreon &lt;3&lt;/g&gt;&#10;	&lt;/g&gt;&#10;	</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150045" creationdate="20210520T180358Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150045</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;&#09;&#10;&#09;share with your swarm:&lt;x id="1"/&gt;&#10;&#10;&#09;&lt;x id="2"/&gt;&#10;&#09;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;	&#10;	compartilha com o teu enxame:&lt;x id="1"/&gt;&#10;&#10;	&lt;x id="2"/&gt;&#10;	</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="1914150046" creationdate="20210520T180701Z" datatype="plaintext" srclang="en-US">
+        <prop type="x-MateCAT-id_job">4016516</prop>
+        <prop type="x-MateCAT-id_segment">1914150046</prop>
+        <prop type="x-MateCAT-filename">index.html</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        
+        
+        <tuv xml:lang="en-US">
+            <seg>&#10;&#10;&#09;fan-translations:&lt;x id="1"/&gt;&#10;&#09;&lt;g id="2"&gt;中文 (chinese)&lt;/g&gt;&lt;x id="3"/&gt;&#10;&#09;&lt;g id="4"&gt;português (brazilian portuguese)&lt;/g&gt;&lt;x id="5"/&gt;&#10;&#09;&lt;g id="6"&gt;français (french)&lt;/g&gt;&lt;x id="7"/&gt;&#10;&#09;&lt;g id="8"&gt;deutsch (german)&lt;/g&gt;&lt;x id="9"/&gt;&#10;&#09;&lt;g id="10"&gt;türkçe (turkish)&lt;/g&gt;&lt;x id="11"/&gt;&#10;&#09;&lt;g id="12"&gt;pусский (russian)&lt;/g&gt;&lt;x id="13"/&gt;&#10;&#09;&lt;g id="14"&gt;עברית (hebrew)&lt;/g&gt;&lt;x id="15"/&gt;&#10;&#09;&lt;g id="16"&gt;magyar (hungarian)&lt;/g&gt;&#10;&#10;&#09;</seg>
+        </tuv>
+        <tuv xml:lang="pt-PT">
+            <seg>&#10;&#10;traduções de fãs:&lt;x id="1"/&gt;&#10;	&lt;g id="2"&gt;中文 (chinês)&lt;/g&gt;&lt;x id="3"/&gt;&#10;	&lt;g id="4"&gt;português (português brasileiro)&lt;/g&gt;&lt;x id="5"/&gt;&#10;	&lt;g id="6"&gt;français (francês)&lt;/g&gt;&lt;x id="7"/&gt;&#10;	&lt;g id="8"&gt;deutsch (alemão)&lt;/g&gt;&lt;x id="9"/&gt;&#10;	&lt;g id="10"&gt;türkçe (turco)&lt;/g&gt;&lt;x id="11"/&gt;&#10;	&lt;g id="12"&gt;pусский (russo)&lt;/g&gt;&lt;x id="13"/&gt;&#10;	&lt;g id="14"&gt;עברית (hebraico)&lt;/g&gt;&lt;x id="15"/&gt;&#10;	&lt;g id="16"&gt;magiar (húngaro)&lt;/g&gt;&#10;&#10;	</seg>
+        </tuv>
+    </tu>
+
+    </body>
+</tmx>
