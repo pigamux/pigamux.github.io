@@ -1,0 +1,42 @@
+#content3{
+	width: 100%;
+	max-width: 1300px;
+	margin: 0 auto;
+	text-align: center;
+	padding: 40px 0;
+}
+
+#content3 > a {
+	margin: auto;
+	text-align: center;
+    overflow: hidden;
+    display: block;
+	width: 400px;
+	margin-bottom: 20px;
+	-webkit-transition: opacity 0.2s ease-in-out;
+	-moz-transition: opacity 0.2s ease-in-out;
+	-ms-transition: opacity 0.2s ease-in-out;
+	transition: opacity 0.2s ease-in-out;
+}
+
+#content3 > a > button {
+	width: 200px;
+}
+
+.home {
+	padding: 0 0 50px 50px;
+}
+
+#mc_signup_thing_text{
+	font-size: 44px;
+}
+
+@media (max-width: 800px){
+	#mc_signup_thing{
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+	#mc_signup_thing_text{
+		font-size: 42px;
+	}
+}
